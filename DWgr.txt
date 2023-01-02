@@ -1,0 +1,15 @@
+undirected weighted string
+Magdeburg Mainz	334
+Mainz Mecklenburg-Vorpommern	494
+Mecklenburg-Vorpommern  Munich	612
+Munich  North-Rhine-Westphalia	462
+Brandenburg  Bremen	262
+Bremen  Dresden	406 	252
+Dresden  Dusseldorf	486
+Dusseldorf  Erfurt	298
+Erfurt  Hambuover	132
+Hannover  Hesse	195
+Hesse  Kiel		295
+Hamburg  Hannover 413
+Kiel  Lower_Saxony	188
+Lower_Saxony  Magdeburg	134
