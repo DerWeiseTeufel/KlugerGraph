@@ -1,4 +1,4 @@
-from hwnp import Graph
+from graph_cl import Graph
 
 
 cmd_create = "CREATE_GRAPH"
